@@ -1,0 +1,57 @@
+#+TITLE: Baby Booties – Crochet Pattern
+#+STARTUP: overview
+
+* Pattern Instructions: Newborn, 0–3 mos, 3–6 mos, 6–9 mos & 9–12 mos
+** Sole
+Ch 11
+
+- [ ] *Round 1.* 1dc in 4th ch from the hook (skipped 3 chs do not count as a st), 1dc in next 6 chs, 8dc in last ch, working up the other side of the ch, 1dc in next 6 ch, 7dc in last ch, sl st to 1st dc to join [28 sts].
+- [ ] *Round 2.* Ch3 (does not count as a st here and throughout), 2dc in same st, 1dc in next 6 sts, 2dc in next 8 sts, 1dc in next 6 sts, 2dc in next 7 sts, sl st to 1st dc to join [44 sts].
+
+** Sides
+- [ ] *Round 3.* Ch3, BLdc in same st, BLdc in next 43 sts, sl st to 1st BLdc to join, [44 sts].
+
+** Shape the Toe
+- [ ] *Round 4.* Ch1 (does not count as a st here and throughout), 1sc in same st, 1sc in next 7 sts, (dc2tog) 8 times, 1sc in next 20 sts, sl st to 1st sc to join [36 sts].
+- [ ] *Round 5.* Ch1, 1sc in same st, 1sc in next 7 sts, (dc2tog) 4 times, 1sc in next 20 sts, sl st to 1st sc to join [32 sts].
+- [ ] *Round 6.* Ch1, 1sc in same st, 1sc in next 7 sts, (dc2tog) twice, 1sc in next 20 sts, sl st to 1st sc to join [30 sts].
+- [ ] *Round 7.* Ch1, 1sc in same st, 1sc in next 7 sts, dc2tog, 1sc in next 20 sts, sl st to 1st sc to join [29 sts].
+
+** Ankle
+- [ ] *Round 8.* Ch1, 1sc in same st, 1sc in next 28 sts, sl st to 1st sc to join [29 sts].
+- [ ] *Rounds 9 – 17:* Repeat round 8.
+
+Cut yarn, fasten off and weave in ends.
+Fold the top of the bootie down to form a cuff. Adjust the depth of the fold as desired.
+
+* Pattern Instructions: 12 mos, 18 mos & 2 yrs
+** Sole
+(See ‘materials’ section above for yarn weight and hook size for the size you are making)
+
+Ch 13
+
+- [ ] *Round 1.* 1dc in 4th ch from the hook (skipped 3 chs do not count as a st), 1dc in next 8 chs, 8dc in last ch, working up the other side of the ch, 1dc in next 8 ch, 7dc in last ch, sl st to 1st dc to join [32 sts].
+- [ ] *Round 2.* Ch3 (does not count as a st here and throughout), 2dc in same st, 1dc in next 8 sts, 2dc in next 8 sts, 1dc in next 8 sts, 2dc in next 7 sts, sl st to 1st dc to join [48 sts].
+
+** Sides
+- [ ] *Round 3.* Ch3, BLdc in same st, BLdc in next 47 sts, sl st to 1st BLdc to join, [48 sts].
+
+** Shape the Toe
+- [ ] *Round 4.* Ch1 (does not count as a st here and throughout), 1sc in same st, 1sc in next 9 sts, (dc2tog) 8 times, 1sc in next 22 sts, sl st to 1st sc to join [40 sts].
+- [ ] *Round 5.* Ch1, 1sc in same st, 1sc in next 9 sts, (dc2tog) 4 times, 1sc in next 22 sts, sl st to 1st sc to join [36 sts].
+- [ ] *Round 6.* Ch1, 1sc in same st, 1sc in next 9 sts, (dc2tog) twice, 1sc in next 22 sts, sl st to 1st sc to join [34 sts].
+- [ ] *Round 7.* Ch1, 1sc in same st, 1sc in next 9 sts, dc2tog, 1sc in next 22 sts, sl st to 1st sc to join [33 sts].
+
+** Ankle
+- [ ] *Round 8.* Ch1, 1sc in same st, 1sc in next 32 sts, sl st to 1st sc to join [33 sts].
+- [ ] *Rounds 9 – 17:* Repeat round 8.
+
+Cut yarn, fasten off and weave in ends.
+Fold the top of the bootie down to form a cuff. Adjust the depth of the fold as desired.
+
+* Finishing Touches
+To help your booties achieve a neat, rounded shape, you can place baby plastic shoe inserts inside them once finished. I use these when photographing my booties, as they gently shape the toe area and help the booties hold their form beautifully.
+
+Simply pop the inserts inside the finished booties and gently arrange the fabric around them. Leave them in place for a little while to help encourage an even, rounded shape.
+
+*Non-Slip Soles:* For children who are already walking, apply small dots of anti-slip sock glue to the underside of the soles. Allow them to dry completely before use.
